@@ -1,4 +1,4 @@
 # LearnPython
 Practice Python
 
-doint something
+doint something, maybe algorithm related learning and practices
